@@ -2,7 +2,7 @@
 #### Dominic Grasso, Melissa Louie, Desiree Sausele, Emily Spiek
 #### March 15, 2019
 
-**[Sidney: Hey team! I will be using bolded square brackets to comment on your manual.]**
+**[Helen: Hey team! I will also be using bolded square brackets to comment on your manual.]**
 
 **[Overall: YAAAS! Great report guys. Thank you for addressing all my comments. There are just some minor changes to be made, but really good work! Also, please change the file name to something like Fluoride-Auto-Spring-2019-Report.md.]**
 
@@ -207,12 +207,12 @@ Figure 10: Table showing fluoride concentrations of the effluent directly after 
 
 <div style = "text-align:left">
 
-The results, outlined in Figure 9 and 10 above, show a consistent increase in detected fluoride after filtering. The only exception is the first sample, which shows a decrease in the detected concentration after filtering. This first trial used the effluent from cleaning out the sedimentation tube, where the floc blanket had formed a gel from a previous experiment. The team speculated that, in this case, the flocs present in the effluent sample were large enough to be effectively filtered out by the mesh, causing the detected concentration of the fluoride to decrease after filtering. However, since all the other samples showed an increase in detected fluoride concentration, the team believed that the flocs in all samples besides Sample 1 were smaller, and were possibly broken up more by the mesh rather than filtered out due to their size. These smaller flocs were then able to pass through the holes in the mesh.
+The results, outlined in Figure 9 and 10 above, show a consistent increase in detected fluoride after filtering [be careful with tenses for this sentence]. The only exception is the first sample, which shows a decrease in the detected concentration after filtering. This first trial used the effluent from cleaning out the sedimentation tube, where the floc blanket had formed a gel from a previous experiment [and grammar tense with this sentence as well]. The team speculated that, in this case, the flocs present in the effluent sample were large enough to be effectively filtered out by the mesh, causing the detected concentration of the fluoride to decrease after filtering. However, since all the other samples showed an increase in detected fluoride concentration, the team believed that the flocs in all samples besides Sample 1 were smaller, and were possibly broken up more by the mesh rather than filtered out due to their size. These smaller flocs were then able to pass through the holes in the mesh.
 
 Both Table 9 and Table 10 show an increase in detected fluoride concentration after filtering, but Table 10 also shows an increase in the concentration after shaking/mixing. Thus, the team believed that shaking the samples also helped break up the flocs into a form of fluoride that the probe was able to sense.
 
 ## Conclusions
-The team has concluded that the new sedimentation tube design is capable at removing flocs from an influent water stream. However, further experimentation must be conducted to determine its efficiency.
+The team has concluded that the new sedimentation tube design is capable at removing flocs from an influent water stream. However, further experimentation must be conducted to determine its efficiency. [I think you can go a bit into what can be done big picture wise to determine its efficiency]
 
 Following the fluoride probe test, the team concluded that, when fluoride is in the form of flocs, the concentration detected by the probe is lower than the actual total concentration of fluoride. The team found that both shaking and filtering the effluent samples were effective ways to increase the amount of fluoride that the probes could sense, thus providing a more accurate reading of the effluent fluoride concentration.
 
